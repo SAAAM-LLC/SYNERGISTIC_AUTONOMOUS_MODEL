@@ -89,8 +89,8 @@ PyTorch 1.13+ (with CUDA for GPU acceleration)
 CUDA-capable GPU (for larger models)
 Basic Installation
 # Clone the repository
-git clone https://github.com/your-username/SAM.git
-cd SAM
+git clone https://github.com/SAAAM-LLC/SYNERGISTIC_AUTONOMOUS_MODEL.git
+cd SYNERGISTIC_AUTONOMOUS_MODEL
 
 # Create and activate virtual environment
 python -m venv venv
