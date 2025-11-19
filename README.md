@@ -159,6 +159,7 @@ Detects available memory and optimizes resource usage
 Offloads less-used components when memory is constrained
 Scales inference and learning based on available compute
 Provides hardware-specific configuration recommendations
+
 🧠 Class Overview
 Core Conceptual Classes
 SAMConfig
@@ -309,7 +310,7 @@ If you use SAM in your research or projects, please cite:
 @software{sam_2024,
   author = {Michael 'Sam' Wofford},
   title = {SAM: Synergistic Autonomous Machine},
-  url = {https://github.com/your-username/SAM},
+  url = {https://github.com/SAAAM-LLC/SYNERGISTIC_AUTONOMOUS_MODEL},
   version = {0.5.0},
   year = {2024},
 }
